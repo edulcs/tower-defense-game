@@ -4,4 +4,4 @@ Glitch Garden: Um jogo de Tower Defense com diferentes tipos de torres e tipos d
 
 ## Game Design
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/edulcs/tower-defense-game/blob/develop/Assets/Images/Gameplay%20Screen.png)
